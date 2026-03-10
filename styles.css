@@ -1,0 +1,18 @@
+body{
+background:#050505;
+margin:0;
+overflow:hidden;
+font-family:Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
+}
+
+canvas{
+display:block;
+}
+
+.neon-text{
+text-shadow:0 0 10px rgba(0,255,255,0.8);
+}
+
+.neon-text-pink{
+text-shadow:0 0 10px rgba(236,72,153,0.8);
+}
